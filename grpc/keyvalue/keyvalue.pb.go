@@ -4,7 +4,7 @@
 // 	protoc        v4.23.4
 // source: keyvalue.proto
 
-package __
+package github.com/TakhirKarimov/golang/tree/main/grpc/keyvalue
 
 import (
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
